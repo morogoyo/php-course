@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 // How variables Store information 
 

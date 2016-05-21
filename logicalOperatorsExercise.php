@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 
 /* Cretate 2 variables of your choosing and the folowing values (100,200) to them

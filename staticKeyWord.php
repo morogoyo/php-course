@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 
 // show the static keyword in front of the variable

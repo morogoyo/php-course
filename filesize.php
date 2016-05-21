@@ -1,4 +1,4 @@
-<?php 
+ <?php 
 $array2=array();
 // address of files that need to be looked at 
   define("FILES","C:/wamp/www/backuptest/bahia");
